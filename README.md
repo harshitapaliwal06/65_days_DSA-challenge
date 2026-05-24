@@ -1,5 +1,5 @@
 # 65_days_DSA-challenge
-Third-year CS student taking on a 65 Days DSA Challenge 🚀 Let’s see how consistent I can stay through this journey.
+fourth-year CS student taking on a 65 Days DSA Challenge 🚀 Let’s see how consistent I can stay through this journey.
 
 
 🚀 65 DAYS OF DSA CHALLENGE
@@ -29,7 +29,6 @@ This repository will contain all my daily solutions, notes, and learning progres
 💻 Language Used :
       c++
 
-| Day     | Topic          | Problems 
-day 1: Arrays : 
+
 
 
